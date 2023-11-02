@@ -5,7 +5,7 @@ function main
     
     mdl = 'mpcACCsystem';
     T = 30;
-    Ts = 0.1;
+    Ts = 0.1; 
     
     t_gap = 1.4;
     
